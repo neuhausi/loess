@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdloess.a CMakeFiles/dloess.dir/src/loessc.c.o CMakeFiles/dloess.dir/src/loess.c.o CMakeFiles/dloess.dir/src/predict.c.o CMakeFiles/dloess.dir/src/misc.c.o CMakeFiles/dloess.dir/src/loessf.f.o CMakeFiles/dloess.dir/thirdparty/netlib-linpack-part/dqrsl.f.o CMakeFiles/dloess.dir/thirdparty/netlib-linpack-part/dsvdc.f.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdloess.a

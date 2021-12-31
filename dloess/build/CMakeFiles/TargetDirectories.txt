@@ -1,0 +1,12 @@
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/dloess.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/air.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/ethanol.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/galaxy.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/gas.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/madeup.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/edit_cache.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/rebuild_cache.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/list_install_components.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/install.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/install/local.dir
+/Users/isaac/Downloads/loessFIVER/dloess/build/CMakeFiles/install/strip.dir
